@@ -176,3 +176,20 @@ Project ID: EAV-MRCT-001. Principal Investigator: Angelica Pangan. Organization:
 This manuscript is a theoretical proposal. No data, results, or approvals are claimed that do not exist. Experiential Tier and Physical Tier are separate. No evidence for Physical Tier exists. Paper does not claim more than one Earth exists, physical time does not exist, or any person can perceive events before they occur.
 
 **Earth Angel Ventures Research Standard:** The standard is not how extraordinary a claim sounds, but how reliably the evidence supports it and how well others can examine, challenge, reproduce, and build upon the work.
+
+## More Files
+- [COMPANY.md](COMPANY.md) | [RESEARCHER.md](RESEARCHER.md) | [LEGAL-ETHICS.md](LEGAL-ETHICS.md) | [CONTACT.md](CONTACT.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md) | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | [SECURITY.md](SECURITY.md)
+- [FUNDING.md](FUNDING.md) | [ROADMAP.md](ROADMAP.md) | [FAQ.md](FAQ.md) | [GLOSSARY.md](GLOSSARY.md) | [PRESS-KIT.md](PRESS-KIT.md)
+- [CITATION.cff](CITATION.cff) | [CHANGELOG.md](CHANGELOG.md)
+- [Protocols](protocols/) | [Figures](paper/figures/README.md) | [Data](data/README.md) | [Analysis](analysis/README.md)
+
+## Protocols
+- [EXP-1 Alpha & Temporal Resolution](protocols/EXP-1-alpha-temporal-resolution.md) — N=280
+- [EXP-2 Information Divergence](protocols/EXP-2-information-divergence.md) — N=60
+- [EXP-3 Causal Modulation](protocols/EXP-3-causal-modulation.md) — N=130
+- [EXP-4 Physical Chronometer](protocols/EXP-4-physical-chronometer.md) — N=90 sessions, ±1×10-12
+
+## Figures
+- [Figure-01 Emblem](paper/figures/Figure-01-Emblem.md) | [Figure-02 Formula Basis](paper/figures/Figure-02-Formula-Basis.md) | [Figure-03 Core Structure](paper/figures/Figure-03-Core-Structure.md) | [Figure-04 Operator Pipeline](paper/figures/Figure-04-Operator-Pipeline.md) | [Figure-05 Frequency Gate](paper/figures/Figure-05-Frequency-Gate.md)
+- [Figure-06 Model Curves](paper/figures/Figure-06-Model-Curves.md) | [Figure-07 System Architecture](paper/figures/Figure-07-System-Architecture.md) | [Figure-08 Power Blueprint](paper/figures/Figure-08-Power-Blueprint.md) | [Figure-09 Decision Logic](paper/figures/Figure-09-Decision-Logic.md) | [Figure-10 Schedule](paper/figures/Figure-10-Schedule.md)
