@@ -1,0 +1,1 @@
+Pledge harassment-free, critique theory not person, positive behavior list, unacceptable: harassment, trolling, claiming proven, selling access, spamming, personal data, sexualized, mocking faith. Enforcement: report earthangelventuresph@gmail.com [CONDUCT], 1 warning, 2 temp ban 7-30 days, 3 permanent + GitHub report. PI final authority.
