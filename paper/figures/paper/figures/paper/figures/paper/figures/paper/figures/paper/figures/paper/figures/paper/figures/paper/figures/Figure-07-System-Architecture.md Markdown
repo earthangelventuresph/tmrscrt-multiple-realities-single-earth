@@ -1,0 +1,15 @@
+# Figure 7 — System Architecture
+**File:** Figure-07-System-Architecture.png
+**Title:** EXP-1 to EXP-4 sync hub
+**Project:** EAV-MRCT-001 | TMRSCRT v1.0
+
+## Accurate flow
+- Centre: One synchronisation hub
+- Hub checked against: Photodiode + Audio loopback
+- Inputs to hub: Stimuli, EEG, TOJ responses
+- Flow: Raw store → Preprocessing → Locked, preregistered analysis scripts
+- EXP-4 arm: Independent of participant station
+- EXP-4 rule: No electronic equipment is carried into the observer room
+
+## Caption
+Figure 7. Experimental system architecture for EXP-1 to EXP-4. Every stimulus and response passes through one synchronisation hub that is checked against a photodiode and audio loopback, so timing error is measured rather than assumed. Data flow from the raw store to preprocessing and to locked, preregistered analysis scripts. The physical chronometer arm (EXP-4) is independent of the participant station: no electronic equipment is carried into the observer room.
