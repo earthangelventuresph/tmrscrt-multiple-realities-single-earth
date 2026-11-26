@@ -1,0 +1,1 @@
+Supported v1.0 only. Report via email earthangelventuresph@gmail.com [SECURITY] NOT public Issue, response 3 days. Counts: impersonation, fake site/PayPal/email, selling product, participant leak, malicious file, unauthorized change. Official accounts list as in CONTACT.md.
