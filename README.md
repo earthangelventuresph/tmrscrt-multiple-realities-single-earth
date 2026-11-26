@@ -1,3 +1,9 @@
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![Status](https://img.shields.io/badge/status-hypothesis%20%2B%20protocol-orange)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)
+![Project](https://img.shields.io/badge/project-EAV--MRCT--001-purple)
+![No Data](https://img.shields.io/badge/data-none%20collected-red)
+
 # Theory of Multiple Realities on a Single Earth and Consciousness-Relative Time (TMRSCRT)
 
 ### One Earth, One Physical World, One Clock Time. Many Experienced Reality States.
